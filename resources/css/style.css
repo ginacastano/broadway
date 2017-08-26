@@ -23,7 +23,8 @@ nav{
   font-size: 18px;
 }
 
-p{
+p.bodytext{
+  font-size: 14px;
   font-weight: normal;
 }
 
